@@ -16,5 +16,5 @@
 		<li class=""><a href="add_assignment.php"><i class="icon-plus-sign"></i>&nbsp;Add assignment</a></li>
 		<li class=""><a href="add_quiz.php"><i class="icon-plus-sign"></i>&nbsp;Quiz</a></li>
 	</ul>
-	<?php include('search_other_class.php'); ?>
+	
 </div>

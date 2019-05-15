@@ -11,7 +11,7 @@
 				<div class="row-fluid">
 					
 					<ul class="breadcrumb">
-						<li><a href="#"><b>Change password</b></a><span class="divider">/</span></li>
+						<li><a href="#"><b>Change password</b></a></li>
 					</ul>
 					
 					<!-- block -->
